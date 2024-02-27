@@ -31,6 +31,6 @@
     "url": "https://www.interactive-scape.com"
   },
   "dependencies": {
-    "com.unity.textmeshpro": "3.2"
+    "com.unity.textmeshpro": "3.2.0"
   }
 }
