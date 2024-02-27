@@ -14,7 +14,7 @@ The Editor and Runtime folders contain key scripts for the Unity editor and runt
 
 ## Installation instructions
 
-Open the Package Manager window and click the plus icon followed by "Add package from git URL...". Enter https://github.com/ngx-interactive/ngx-TuioUnityClient and click "Add".</br>
+Open the Package Manager window and click the plus icon followed by "Add package from git URL...". Enter https://github.com/ngx-interactive/ngx-TuioUnityClient.git and click "Add".</br>
 Alternatively download the code from github, unzip it and choose the "Add package from disk.." option. Select the ```package.json``` file from the package directory.
 
 ![Add Package](Documentation~/img/pm-add.png)
